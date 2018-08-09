@@ -10,6 +10,8 @@ Image:
 * [Online Participation Contract](../../pdf/OnlineParticipationContract.pdf)
 
 # Digital Collections
+## Other Compiled Lists
+* [SALALM: Latin American & Caribbean Digital Primary Resource](https://salalm.org/collection-development-resources/digital-primary-resources/)
 
 ## University of Texas
 * Archivo Hist&oacute;rico de la Polic&iacute;a Nacional: [UT Website](http://ahpn.lib.utexas.edu/); [Guatemala website](http://archivohistoricopn.org/)  
